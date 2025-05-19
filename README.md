@@ -1,1 +1,1 @@
-# Stock-Analysis-App
+# Plant Disease Detection App
